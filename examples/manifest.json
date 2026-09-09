@@ -1,0 +1,23 @@
+[
+  {
+    "file": "01.png",
+    "caption": "4,608 triangles reduced to450",
+    "alt": "Two matching braided knot meshes: a smooth silver original and a much simpler terracotta result",
+    "steps": [
+      "Braided knot",
+      "Target450 triangles",
+      "QEM simplification, side-by-side view"
+    ]
+  },
+  {
+    "file": "02.png",
+    "caption": "A fixed rim with fewer interior triangles",
+    "alt": "Original and reduced terrain meshes in wireframe, showing a retained open boundary and larger interior triangles",
+    "steps": [
+      "Terrain tile",
+      "Lock open boundaries enabled",
+      "Target700 triangles",
+      "Wireframe on"
+    ]
+  }
+]
